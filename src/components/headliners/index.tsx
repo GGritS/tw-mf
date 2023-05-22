@@ -1,13 +1,13 @@
 import { FC } from "react";
 
 const BANDS = [
-  { title: "Corduroy Gary", imageUrl: "bg-band_1" },
-  { title: "Corduroy Gary", imageUrl: "bg-band_2" },
-  { title: "Corduroy Gary", imageUrl: "bg-band_3" },
-  { title: "Corduroy Gary", imageUrl: "bg-band_4" },
-  { title: "Corduroy Gary", imageUrl: "bg-band_5" },
-  { title: "Corduroy Gary", imageUrl: "bg-band_5" },
-  { title: "Corduroy Gary", imageUrl: "bg-band_6" },
+  { title: "Corduroy Gary", imageUrl: "band_1" },
+  { title: "Corduroy Gary", imageUrl: "band_2" },
+  { title: "Corduroy Gary", imageUrl: "band_3" },
+  { title: "Corduroy Gary", imageUrl: "band_4" },
+  { title: "Corduroy Gary", imageUrl: "band_5" },
+  { title: "Corduroy Gary", imageUrl: "band_5" },
+  { title: "Corduroy Gary", imageUrl: "band_6" },
 ];
 
 export const Headliners: FC = () => {

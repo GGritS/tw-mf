@@ -3,7 +3,7 @@ import music_icon from "./../../assets/images/logo.png";
 
 export const Hero: FC = () => {
   return (
-    <div className="bg-hero-img bg-cover bg-center  bg-fixed flex flex-col justify-center items-center h-[calc(100vh-200px)] min-h-[400px]">
+    <div className="hero-img bg-cover bg-center  bg-fixed flex flex-col justify-center items-center h-[calc(100vh-200px)] min-h-[400px]">
       <div className="bg-white/30 w-fit py-2 px-4 rounded-xl text-center backdrop-blur-md z-10">
         <div className="relative">
           <img src={music_icon} alt="img" width="175" />

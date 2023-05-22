@@ -14,3 +14,28 @@ body {
     font-family: "Quicksand", sans-serif;
   }
 }
+
+.hero-img {
+  background-image: url("./assets/images/hero.jpg");
+}
+.band_1 {
+  background-image: url("./assets/images/band1.jpg");
+}
+.band_2 {
+  background-image: url("./assets/images/band2.jpg");
+}
+.band_3 {
+  background-image: url("./assets/images/band3.jpg");
+}
+.band_4 {
+  background-image: url("./assets/images/band4.jpg");
+}
+.band_5 {
+  background-image: url("./assets/images/band5.jpg");
+}
+.band_6 {
+  background-image: url("./assets/images/band6.jpg");
+}
+.band_7 {
+  background-image: url("./assets/images/band7.jpg");
+}
