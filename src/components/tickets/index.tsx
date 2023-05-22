@@ -7,11 +7,9 @@ export const Tickets: FC = () => {
       <div className="flex flex-col items-center w-full">
         <table className="mt-5 table border border-color border-collapse w-full">
           <thead className="text-lg font-bold ">
-            <tr className="border border-zinc-500 p-3">
-              <th>Tickets</th>
-            </tr>
-            <tr className="border border-zinc-500 p-3">
-              <th>Price</th>
+            <tr>
+              <th className="border border-zinc-500 p-3">Tickets</th>
+              <th className="border border-zinc-500 p-3">Price</th>
             </tr>
           </thead>
           <tbody>
